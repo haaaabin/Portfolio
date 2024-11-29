@@ -15,7 +15,7 @@
 
 ## :pushpin: Projects
 ### 1. [Sleighers (슬레이어즈)](https://github.com/haaaabin/Sleighers_Client)
-> 설산 배경의 멀티 플레이 썰매 레이싱 게임 (팀 프로젝트)
+> [크래프톤 정글] 설산 배경의 멀티 플레이 썰매 레이싱 게임 (팀 프로젝트)
 > 
 > 개발 기간 : 2024.4.18 ~ 2024.5.24 (5주)  
 >  
