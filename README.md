@@ -28,10 +28,15 @@
 > [크래프톤 정글] 설산 배경의 멀티 플레이 썰매 레이싱 게임 (팀 프로젝트)
 > 
 > 개발 기간 : 2024.4.18 ~ 2024.5.24 (5주)  
->  
+>
+> 참여 인원 : 5인(클라이언트 3, 서버 2)
+> 
 > 사용 언어 및 개발 환경 : Unity, C#, GitHub Action, Git
 >    
-> [프로젝트 상세 설명](https://github.com/haaaabin/Sleighers_Client) 참고
+> #### 담당 역할
+>  - 인게임/아웃게임 UI
+>  - [실시간 랭킹 시스템 구현](https://github.com/haaaabin/Sleighers_Client/blob/e87a9df5fef953412336d99781b7e7ba34dd04cd/Assets/Scripts/InGame/Ranking/RankManager.cs#L6-L183) 
+>  - 보간/외삽을 사용한 유저 간 상태 동기화
 
 ---
 ### 3. [PintOS](https://github.com/haaaabin/PintOs)
