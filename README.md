@@ -1,9 +1,6 @@
 # 최하빈 포트폴리오
 </br>
 
-## :pushpin: Intro
-(여기에 자기 소개)
-
 </br>
 
 ## :pushpin: Contact
@@ -36,7 +33,7 @@
 > #### 담당 역할
 >  - 인게임/아웃게임 UI
 >  - [실시간 랭킹 시스템 구현](https://github.com/haaaabin/Sleighers_Client/blob/e87a9df5fef953412336d99781b7e7ba34dd04cd/Assets/Scripts/InGame/Ranking/RankManager.cs#L6-L183) 
->  - 보간/외삽을 사용한 유저 간 상태 동기화
+>  - [보간/외삽을 사용한 유저 간 상태 동기화](https://github.com/haaaabin/Sleighers_Client/blob/e87a9df5fef953412336d99781b7e7ba34dd04cd/Assets/Scripts/InGame/Sled/Player.cs#L271-L298)
 
 ---
 ### 3. [PintOS](https://github.com/haaaabin/PintOs)
@@ -49,17 +46,6 @@
 > 사용 언어 및 개발 환경 : C, Ubuntu, Git
 >
 >[프로젝트 상세 설명](https://github.com/haaaabin/PintOs) 참고
-
----
-### 4. [FOOOOOX](https://github.com/haaaabin/FOOOOOX)
-> Unity 2D 플랫포머 게임 (개인 프로젝트)
-> 
-> 개발 기간 : 2023.08 ~ 2023.09
-> 
-> 사용 언어 및 개발 환경 : Unity, C#, Git
->
->[프로젝트 상세 설명](https://github.com/haaaabin/FOOOOOX) 참고
-
 
 
 
